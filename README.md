@@ -4,7 +4,7 @@
 - 🔭 I'll post regularly some of my projects 
 - 🤔 I'm looking for an internship for next April, you can reach me on Linkedin
 
-Feel free to contact me, i'll be glad to talk with you !
+Feel free to contact me, I'll be glad to talk with you !
 <!--
 **hugodebes/hugodebes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
