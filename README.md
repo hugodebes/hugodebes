@@ -1,8 +1,8 @@
 ### Hi there 👋 it's Hugo 😄
 
 - 🌱 I'm currently studying Data and Artificial Intelligence at ESILV (Leonard de Vinci Engineering School)
-- 🔭 I'll post regularly some of my projects 
-- 🤔 I'm looking for an internship for next April, you can reach me on Linkedin
+- 💻 I'll post regularly some of my projects 
+- 👁️‍🗨️ I'm looking for an internship for next April, you can reach me on Linkedin
 
 
 ## 🚀 Languages and Tools:
