@@ -1,4 +1,4 @@
-### Hi there 👋 it's Hugo 😄
+## Hi there 👋 it's Hugo 😄
 
 - 🌱 I'm currently studying Data and Artificial Intelligence at ESILV (Leonard de Vinci Engineering School)
 - 💻 I'll post regularly some of my projects 
